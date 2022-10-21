@@ -4,9 +4,9 @@ This repository is a collection of notes, links and codes regarding CNN and its 
 <br>
 [Theory](https://github.com/Artixis/CNN/blob/main/markdown%20files/Theory%2Cmd)
 <br>
-[Structure Notes]()
+[Structure Notes](https://github.com/Artixis/CNN/blob/main/markdown%20files/Structure.md)
 <br>
-[Example Code]()
+[Example Code](https://github.com/Artixis/CNN/blob/main/markdown%20files/Code.md)
 <br>
 [My implementation]()
 
